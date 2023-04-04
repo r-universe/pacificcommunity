@@ -8,3 +8,8 @@
 	url = https://github.com/pacificcommunity/ofp-sam-ample
 	shallow = true
 	registered = true
+[submodule "condor"]
+	path = condor
+	url = https://github.com/pacificcommunity/ofp-sam-condor
+	shallow = true
+	registered = true
