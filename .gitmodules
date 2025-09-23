@@ -7,4 +7,4 @@
 	url = https://github.com/pacificcommunity/ofp-sam-ample
 [submodule "condor"]
 	path = condor
-	url = https://github.com/pacificcommunity/ofp-sam-condor
+	url = https://github.com/pacificcommunity/condor
